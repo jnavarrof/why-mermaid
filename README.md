@@ -1,0 +1,2 @@
+# why-mermaid
+Why Mermaid?
